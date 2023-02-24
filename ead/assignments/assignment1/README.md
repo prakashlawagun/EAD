@@ -15,6 +15,16 @@
 - Create a package, I have created a nested package as `com.sms`.
 - Create these folders/packages `(controller, dao, dto, service, util)` inside `com.sms`.
 - Create the respective `java` or `interface` file in the packages
+- [StudentController.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/controller/StudentController.java) inside `controller` package
+    - [DBUtil.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/util/DBUtil.java) inside `util` package
+    - [StudentDto.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/dto/StudentDto.java) inside `dto` package
+    - [StudentDao.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/dao/StudentDao.java) and [StudentDaoImpl.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/dao/StudentDaoImpl.java) inside `dao` package
+    - [StudentService.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/service/StudentService.java) and [StudentServiceImpl.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/service/StudentServiceImpl.java) inside `service` package
+- Create the `JSP` files inside `src/main/webapp` folder as follows
+    - [index.jsp](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/webapp/index.jsp), [studentform.jsp](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/webapp/studentform.jsp) and [studentlist.jsp](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/webapp/studentlist.jsp)
+- And finally create `style` files inside `src/main/webapp/css` folder. *Create the css folder inside webapp folder*
+    - [style.css](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/webapp/css/style.css) and [add-studnet-style.css](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/webapp/css/add-student-style.css)
+- Run the project.
 - Run the project.
 
 ## Steps to create a server
