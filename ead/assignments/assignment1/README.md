@@ -15,7 +15,7 @@
 - Create a package, I have created a nested package as `com.sms`.
 - Create these folders/packages `(controller, dao, dto, service, util)` inside `com.sms`.
 - Create the respective `java` or `interface` file in the packages
-- [StudentController.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/controller/StudentController.java) inside `controller` package
+- [StudentController.java](https://github.com/prakashlawagun/EAD/tree/main/ead/assignments/assignment1/src/main/java/com/sms/controller) inside `controller` package
     - [DBUtil.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/util/DBUtil.java) inside `util` package
     - [StudentDto.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/dto/StudentDto.java) inside `dto` package
     - [StudentDao.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/dao/StudentDao.java) and [StudentDaoImpl.java](https://github.com/college-related/Labs-7th-sems/blob/main/Enterprise%20Application%20Development%20(EAD)/assignments/assignment1/src/main/java/com/sms/dao/StudentDaoImpl.java) inside `dao` package
